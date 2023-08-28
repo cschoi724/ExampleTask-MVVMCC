@@ -1,0 +1,14 @@
+<svg data-name="ic_back_gray 50_24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="z71y3bezna">
+            <path data-name="사각형 21672" style="fill:none" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 36922" style="clip-path:url(#z71y3bezna)">
+        <g data-name="그룹 36921">
+            <g data-name="그룹 36920" style="clip-path:url(#z71y3bezna)">
+                <path data-name="패스 34258" d="M8 20a.649.649 0 0 1-.46-.19L.19 12.459a.65.65 0 0 1 0-.918L7.54 4.19a.65.65 0 0 1 .92.919L1.569 12l6.891 6.891A.65.65 0 0 1 8 20" style="fill:#f1f1f1"/>
+            </g>
+        </g>
+    </g>
+</svg>
